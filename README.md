@@ -41,3 +41,27 @@ A 3D zombie survival game built using **Python**, **PyOpenGL**, and **Pygame**. 
 
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate pygame
+
+
+## Future Improvements
+
+- Implement zombie pathfinding and obstacle avoidance
+- Introduce player health and zombie damage
+- Add multiple weapon types and ammo system
+- Create score tracking and a game over screen
+- Introduce waves and increasing difficulty
+- Add textures and lighting for realism
+- Include sound effects and background music
+- Optimize performance and modularize the game engine
+
+
+## Credits
+
+**CSE423 Lab Course Project**  
+Developed by:
+
+- Khandoker Wahiduzzaman Anik  
+- Arik Ahmed Siddique  
+- Faiaj Sahib
+
+Under the supervision of the Department of Computer Science and Engineering.
