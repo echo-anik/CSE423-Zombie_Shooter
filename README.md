@@ -22,12 +22,13 @@ A 3D zombie survival game built using **Python**, **PyOpenGL**, and **Pygame**. 
 
 | Key | Action              |
 |-----|---------------------|
-| W   | Move Forward        |
-| S   | Move Backward       |
-| A   | Move Left           |
-| D   | Move Right          |
-| Spacebar | Fire Bullet    |
-| Esc | Quit Game           |
+| w   | Move Forward        |
+| s   | Move Backward       |
+| a   | Move Left           |
+| d   | Move Right          |
+| c  | Cheat Mode          |
+| Left Mouse | Fire Bullet    |
+| Esc / q | Quit Game           |
 
 ---
 
@@ -42,8 +43,10 @@ A 3D zombie survival game built using **Python**, **PyOpenGL**, and **Pygame**. 
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate pygame
 
+Run: open the file with openGL libraries installed in the same directory. 
 
-## Future Improvements
+---
+### Future Improvements
 
 - Implement zombie pathfinding and obstacle avoidance
 - Introduce player health and zombie damage
@@ -64,4 +67,4 @@ Developed by:
 - Arik Ahmed Siddique  
 - Faiaj Sahib
 
-Under the supervision of the Department of Computer Science and Engineering.
+Under the supervision of the Department of Computer Science and Engineering, BRAC UNIVERSITY
