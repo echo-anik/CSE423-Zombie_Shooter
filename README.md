@@ -27,6 +27,7 @@ A 3D zombie survival game built using **Python**, **PyOpenGL**, and **Pygame**. 
 | a   | Move Left           |
 | d   | Move Right          |
 | c  | Cheat Mode          |
+| Right Mouse  | CHANGE CAMERA |
 | Left Mouse | Fire Bullet    |
 | Esc / q | Quit Game           |
 
